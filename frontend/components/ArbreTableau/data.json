@@ -1,0 +1,72 @@
+[
+
+    {
+        "name":"Match 42",
+        "joueur1":{
+            "pseudo":"Arthur"
+        },
+        "joueur2":{
+            "pseudo":"Bob"
+        },
+        "vainqueur":null,
+        "children":[
+            {
+                "name":"Match 42",
+                "joueur1":{
+                    "pseudo":"Arthur"
+                },
+                "joueur2":{
+                    "pseudo":"Bob"
+                },
+                "vainqueur":null,
+                "children":[]
+            },
+            {
+                "name":"Match 42",
+                "joueur1":{
+                    "pseudo":"Arthur"
+                },
+                "joueur2":{
+                    "pseudo":"Bob"
+                },
+                "vainqueur":null,
+                "children":[]
+            }
+        ]
+    }
+    ,
+    {
+        "name":"Match 42",
+        "joueur1":{
+            "pseudo":"Arthur"
+        },
+        "joueur2":{
+            "pseudo":"Bob"
+        },
+        "vainqueur":null,
+        "children":[
+            {
+                "name":"Match 42",
+                "joueur1":{
+                    "pseudo":"Arthur"
+                },
+                "joueur2":{
+                    "pseudo":"Bob"
+                },
+                "vainqueur":null,
+                "children":[]
+            },
+            {
+                "name":"Match 42",
+                "joueur1":{
+                    "pseudo":"Arthur"
+                },
+                "joueur2":{
+                    "pseudo":"Bob"
+                },
+                "vainqueur":null,
+                "children":[]
+            }
+        ]
+    }
+]
